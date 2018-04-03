@@ -1,0 +1,3 @@
+/Users/Chris/Projects/Grades/bin/Release/Grades.exe
+/Users/Chris/Projects/Grades/obj/x86/Release/Grades.csproj.CoreCompileInputs.cache
+/Users/Chris/Projects/Grades/obj/x86/Release/Grades.exe

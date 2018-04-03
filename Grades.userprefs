@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D9294CB-DF11-43AF-AE7B-484B394300D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeStatistics.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="13" />
+      <File FileName="GradeBook.cs" Line="19" Column="1" />
+      <File FileName="GradeStatistics.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grades" expanded="True">
+            <Node name="Grades" expanded="True">
+              <Node name="GradeStatistics.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

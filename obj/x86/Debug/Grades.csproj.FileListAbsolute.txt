@@ -1,0 +1,5 @@
+/Users/Chris/Projects/Grades/bin/Debug/Grades.exe
+/Users/Chris/Projects/Grades/bin/Debug/Grades.pdb
+/Users/Chris/Projects/Grades/obj/x86/Debug/Grades.csproj.CoreCompileInputs.cache
+/Users/Chris/Projects/Grades/obj/x86/Debug/Grades.exe
+/Users/Chris/Projects/Grades/obj/x86/Debug/Grades.pdb
